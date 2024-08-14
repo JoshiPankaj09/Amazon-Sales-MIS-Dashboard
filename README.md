@@ -30,4 +30,4 @@ Features
         Use the slicers to filter data by state, city, or product category.
 
   **View Screen Recording:**
-        Watch the recording of the dashboard in action: Screen Recording Link.
+        Watch the recording of the dashboard in action: https://youtu.be/KgOkb7MdgxQ?si=RbMi2GeCihJ6hbx4
