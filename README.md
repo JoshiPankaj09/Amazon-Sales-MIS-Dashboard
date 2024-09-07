@@ -6,6 +6,8 @@
 This project features an MIS Dashboard created using Excel to analyze Amazon sales data. The dashboard provides a comprehensive view of sales performance with various visualizations and insights, designed to support management in decision-making and performance tracking.
 Features
 
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-08-14%20140515.png?raw=true)
+
    **City-wise Sales Analysis:**
     Visualize sales performance across different cities.
 
